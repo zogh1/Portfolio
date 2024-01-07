@@ -5,7 +5,7 @@ import {
   
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
-import logo from "../../assets/Capture.JPG";
+import logo from "../../assets/Capture.png";
 
 const Footer = () => {
     let date = new Date();
